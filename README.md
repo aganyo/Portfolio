@@ -1,5 +1,5 @@
-# Portfolio template
-```sh
-$ server to open
-```
-this is a well beginner friendly portfolio an
+# This is my portfolio
+I showcase most of my dev skills here e.g
+- Backend dev
+- Frontend Dev
+- Mobile dev
